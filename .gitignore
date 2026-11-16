@@ -1,0 +1,15 @@
+.venv/
+venv/
+LLM_ProjEnv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+Groq_API
+__MACOSX/
+.DS_Store
+.cursor/
+.vscode/
+XLCoST/
+XLCoST_data/

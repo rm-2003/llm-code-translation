@@ -1,0 +1,162 @@
+[
+  {
+    "source_lang": "C",
+    "target_lang": "C#",
+    "program_index": 0,
+    "metrics": {
+      "ast_similarity": 0.5535714285714286,
+      "codebert_similarity": 0.9678019881248474,
+      "dataflow_similarity": 0.6005555555555556
+    }
+  },
+  {
+    "source_lang": "C",
+    "target_lang": "C#",
+    "program_index": 1,
+    "metrics": {
+      "ast_similarity": 0.782608695652174,
+      "codebert_similarity": 0.9729583859443665,
+      "dataflow_similarity": 0.6428571428571429
+    }
+  },
+  {
+    "source_lang": "C",
+    "target_lang": "Javascript",
+    "program_index": 0,
+    "metrics": {
+      "ast_similarity": 0.7222222222222222,
+      "codebert_similarity": 0.9536634087562561,
+      "dataflow_similarity": 0.6
+    }
+  },
+  {
+    "source_lang": "C",
+    "target_lang": "Javascript",
+    "program_index": 1,
+    "metrics": {
+      "ast_similarity": 0.75,
+      "codebert_similarity": 0.9863640069961548,
+      "dataflow_similarity": 0.6369230769230769
+    }
+  },
+  {
+    "source_lang": "C",
+    "target_lang": "PHP",
+    "program_index": 0,
+    "metrics": {
+      "ast_similarity": 0.9393939393939394,
+      "codebert_similarity": 0.9779489636421204,
+      "dataflow_similarity": 0.7132275132275132
+    }
+  },
+  {
+    "source_lang": "C",
+    "target_lang": "PHP",
+    "program_index": 1,
+    "metrics": {
+      "ast_similarity": 0.8571428571428571,
+      "codebert_similarity": 0.9858590364456177,
+      "dataflow_similarity": 0.7022727272727273
+    }
+  },
+  {
+    "source_lang": "C++",
+    "target_lang": "C#",
+    "program_index": 0,
+    "metrics": {
+      "ast_similarity": 0.7755102040816326,
+      "codebert_similarity": 0.951301097869873,
+      "dataflow_similarity": 0.6642857142857144
+    }
+  },
+  {
+    "source_lang": "C++",
+    "target_lang": "C#",
+    "program_index": 1,
+    "metrics": {
+      "ast_similarity": 0.8478260869565217,
+      "codebert_similarity": 0.9614333510398865,
+      "dataflow_similarity": 0.6829411764705883
+    }
+  },
+  {
+    "source_lang": "C++",
+    "target_lang": "Python",
+    "program_index": 0,
+    "metrics": {
+      "ast_similarity": 0.5384615384615384,
+      "codebert_similarity": 0.9689279794692993,
+      "dataflow_similarity": 0.41323529411764703
+    }
+  },
+  {
+    "source_lang": "C++",
+    "target_lang": "Python",
+    "program_index": 1,
+    "metrics": {
+      "ast_similarity": 0.5952380952380952,
+      "codebert_similarity": 0.9786739349365234,
+      "dataflow_similarity": 0.5111111111111111
+    }
+  },
+  {
+    "source_lang": "Java",
+    "target_lang": "PHP",
+    "program_index": 0,
+    "metrics": {
+      "ast_similarity": 0.44,
+      "codebert_similarity": 0.9800922274589539,
+      "dataflow_similarity": 0.12631578947368421
+    }
+  },
+  {
+    "source_lang": "Java",
+    "target_lang": "PHP",
+    "program_index": 1,
+    "metrics": {
+      "ast_similarity": 0.7083333333333334,
+      "codebert_similarity": 0.9600704908370972,
+      "dataflow_similarity": 0.6302702702702703
+    }
+  },
+  {
+    "source_lang": "Java",
+    "target_lang": "Python",
+    "program_index": 0,
+    "metrics": {
+      "ast_similarity": 0.5897435897435898,
+      "codebert_similarity": 0.9683681726455688,
+      "dataflow_similarity": 0.5117647058823529
+    }
+  },
+  {
+    "source_lang": "Java",
+    "target_lang": "Python",
+    "program_index": 1,
+    "metrics": {
+      "ast_similarity": 0.8181818181818182,
+      "codebert_similarity": 0.9748988151550293,
+      "dataflow_similarity": 0.6111111111111112
+    }
+  },
+  {
+    "source_lang": "Java",
+    "target_lang": "Javascript",
+    "program_index": 0,
+    "metrics": {
+      "ast_similarity": 0.5789473684210527,
+      "codebert_similarity": 0.9738727807998657,
+      "dataflow_similarity": 0.5560606060606061
+    }
+  },
+  {
+    "source_lang": "Java",
+    "target_lang": "Javascript",
+    "program_index": 1,
+    "metrics": {
+      "ast_similarity": 0.6944444444444444,
+      "codebert_similarity": 0.9668822288513184,
+      "dataflow_similarity": 0.5994871794871794
+    }
+  }
+]

@@ -1,0 +1,29 @@
+=== ACI Execution Output ===
+Test Input: 2
+4
+3
+Ideal Output: 3 4
+Actual Output: 3 4
+Generated Code:
+import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class Main {
+    public static void main(String[] args) {
+        int n, x;
+        System.out.print("Enter number of integers: ");
+        Scanner scanner = new Scanner(System.in);
+        n = scanner.nextInt();
+        ArrayList<Integer> nums = new ArrayList<>();
+        System.out.print("Enter integers: ");
+        for(int i = 0; i < n; i++) {
+            x = scanner.nextInt();
+            nums.add(x);
+        }
+        Collections.sort(nums);
+        System.out.print("Sorted list: ");
+        for(int num : nums)
+            System.out.print(num + " ");
+    }
+}
